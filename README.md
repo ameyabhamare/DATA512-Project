@@ -9,7 +9,7 @@ These insights will serve as a critical resource for local policymakers, city ma
 
 2. [Wildfire Cities Assignment](https://docs.google.com/spreadsheets/d/1cmTW5fgU3KyH6JbrRao-qWjzu2GovKk_BkA7a-poGFw/edit#gid=1247370552)
 
-3. [Premature Death Rate for Merced County, CA] (https://fred.stlouisfed.org/series/CDC20N2U006047)
+3. [Premature Death Rate for Merced County, CA](https://fred.stlouisfed.org/series/CDC20N2U006047)
 
 # Licensing    
 ---   
