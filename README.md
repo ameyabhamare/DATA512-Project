@@ -39,7 +39,9 @@ The AQI data presents its own set of challenges. As different weather stations o
 
 # Intermediate data files
 1. aqi_yearly_means_1992_to_2020.json
+
 The file structure has the key as wildfire_year and the value is the mean AQI year over year
+
 {"1992": 202, "1993": 205, "1994": 202, "1995": 209...}
 
 2. feature_list_135k.json
