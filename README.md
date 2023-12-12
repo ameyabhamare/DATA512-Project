@@ -38,11 +38,9 @@ The GeoJSON dataset is extensive, containing approximately 136,000 fire occurren
 The AQI data presents its own set of challenges. As different weather stations operate across varying time periods, the data must be consolidated from three distinct stations. This data integration process also requires meticulous exception handling, as the 'aqi' parameter is frequently absent or incomplete. Additionally, in the case of my city locations, there is an absence of data for gaseous pollutants, with only particulate pollutants available. As a result, this specific scenario necessitates unique handling and treatment.
 
 # Intermediate data files
-1. aqi_yearly_means_1992_to_2020.json
-
-The file structure has the key as wildfire_year and the value is the mean AQI year over year
-
-{"1992": 202, "1993": 205, "1994": 202, "1995": 209...}
+1. aqi_yearly_means_1992_to_2020.json </br>
+    The file structure has the key as wildfire_year and the value is the mean AQI year over year </br>
+    {"1992": 202, "1993": 205, "1994": 202, "1995": 209...}
 
 2. feature_list_135k.json
 3. filtered_fires_1963_to_2023.json
